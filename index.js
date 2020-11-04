@@ -224,7 +224,7 @@ Using the feet function below do the following:
 */
 
 function feet(cm){
-    return cm/30.48
+    return cm/30.48;
   }
  
 
